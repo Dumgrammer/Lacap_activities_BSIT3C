@@ -1,0 +1,27 @@
+<!-- templates/base.html -->
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <title>Portfolio</title>
+</head>
+<body id="body" class="bg-gray-100">
+    {% include 'components/navbar.html' %}  <!-- Navbar -->
+
+    <!-- Main content that will change dynamically -->
+    <div id="content">
+        {% block content %} <!-- Dynamic content will be inserted here -->
+        {% endblock %}
+    </div>
+        {% block footer  %}
+            {% include 'pages/contact.html' %}
+        {% endblock %}
+
+    <!-- Scripts -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
