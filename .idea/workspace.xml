@@ -4,7 +4,75 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="081b99b6-e840-4fa3-8368-b78c98467ef1" name="Changes" comment="" />
+    <list default="true" id="081b99b6-e840-4fa3-8368-b78c98467ef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/items/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Adp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Bswp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Chatme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/GCACO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/LMS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Lacap, Karl Bastian Cunanan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Olongapocom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Pbp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Pip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Swiftcart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Vdp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/appgrade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/hack4gov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/hack4gov3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-angularjs-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-css-logo-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-html-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-java-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-javascript-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-laravel-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-mongodb-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-mysql-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-nodejs-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-php-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-postgres-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-python-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-react-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-tailwind-css-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-typescript-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/static/scripts/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/components/Card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/components/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/components/sidenav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/dashindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/pages/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/pages/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/pages/education.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Djangotest/templates/pages/portfolio.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +87,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Djangotest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -41,15 +109,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.manage.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "routes",
-    "last_opened_file_path": "C:/xampp/htdocs/Lacap_activities_BSIT3C"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;routes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/Lacap_activities_BSIT3C&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Lacap_activities_BSIT3C\Djangotest\templates" />
