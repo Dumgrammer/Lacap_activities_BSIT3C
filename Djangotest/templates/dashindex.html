@@ -9,11 +9,11 @@
     <title>Portfolio</title>
 </head>
 <body id="body" class="bg-gray-100">
-    {% include 'components/navbar.html' %}  <!-- Navbar -->
+    {% include 'components/sidenav.html' %}  <!-- Navbar -->
 
     <!-- Main content that will change dynamically -->
-    <div id="content">
-        {% block content %} <!-- Dynamic content will be inserted here -->
+    <div id="content" class="sm:ml-64 p-4 transition-all">
+        {% block content %}
         {% endblock %}
     </div>
 
