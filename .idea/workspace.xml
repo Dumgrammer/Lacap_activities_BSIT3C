@@ -5,73 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="081b99b6-e840-4fa3-8368-b78c98467ef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/items/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lacap_activities_BSIT3C.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lacap_activities_BSIT3C.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/Djangotest/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/dashboard/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/portfolio/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Adp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Bswp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Chatme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/GCACO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/LMS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Lacap, Karl Bastian Cunanan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Me.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Olongapocom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Pbp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Pip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Swiftcart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/Vdp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/appgrade.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/hack4gov.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/hack4gov3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-angularjs-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-css-logo-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-html-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-java-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-javascript-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-laravel-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-mongodb-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-mysql-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-nodejs-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-php-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-postgres-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-python-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-react-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-tailwind-css-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/images/icons8-typescript-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/static/scripts/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/components/Card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/components/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/components/sidenav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/dashindex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/pages/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/pages/dashboard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/pages/education.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Djangotest/templates/pages/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +93,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
       </set>
     </attachedChunks>
   </component>
@@ -170,5 +107,24 @@
       <updated>1739460970450</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/users/urls.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/users/views.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/users/models.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,5 +1,3 @@
-from tkinter.font import names
-
 from django.core.management.commands.runserver import naiveip_re
 from django.urls import path
 from . import views
